@@ -1,5 +1,5 @@
 # web_development_batch-1
-## Links for recorded lectures in URDU (Only HTML,CSS,Bootstrap other web videos are Not Available)
+## Links for recorded lectures in URDU (Only HTML,CSS,Bootstrap further videos are Not Recorded)
 ## *** ( Only for UCP students others are restricted to access )
 <pre>
 LECTURE-1:

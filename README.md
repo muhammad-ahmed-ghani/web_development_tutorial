@@ -1,6 +1,8 @@
 # web_development_batch-1
 ## Links for recorded lectures in URDU (Only HTML,CSS,Intro to Bootstrap further videos are Not Recorded)
-## *** ( Only for UCP students others are restricted to access )
+## *** ( Only for UCP Students/Staff others are restricted to access )
+## Login via Email provided by UCP.
+
 <pre>
 LECTURE-1:
 https://web.microsoftstream.com/video/03cd6a37-d6eb-4030-a554-06f26f7c98a5
